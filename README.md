@@ -31,8 +31,8 @@ Quadruped Robot Deployment
 - [x] Tensor basics
 - [ ] Dataset
 - [ ] DataLoader
-- [ ] Autograd
-- [ ] Neural Network
+- [x] Autograd
+- [x] Neural Network
 - [ ] Loss Function
 - [ ] Optimizer
 - [ ] Training a neural network
