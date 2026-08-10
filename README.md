@@ -34,8 +34,8 @@ Quadruped Robot Deployment
 - [x] Autograd
 - [x] Neural Network
 - [ ] Loss Function
-- [ ] Optimizer
-- [ ] Training a neural network
+- [x] Optimizer
+- [x] Training a neural network
 
 ### 2. Reinforcement Learning
 
