@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# PyTorch model weights & datasets
+*.pth
+*.pt
+data/
