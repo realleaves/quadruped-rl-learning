@@ -39,10 +39,10 @@ Quadruped Robot Deployment
 
 ### 2. Reinforcement Learning
 
-- [ ] Reinforcement Learning basics
-- [ ] MDP
-- [ ] Policy
-- [ ] Value Function
+- [x] Reinforcement Learning basics
+- [x] MDP
+- [x] Policy
+- [x] Value Function
 - [ ] Q-Learning
 - [ ] Policy Gradient
 - [ ] Actor-Critic
