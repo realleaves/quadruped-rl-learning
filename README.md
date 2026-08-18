@@ -45,7 +45,7 @@ Quadruped Robot Deployment
 - [x] Value Function
 - [ ] Q-Learning
 - [ ] Policy Gradient
-- [ ] Actor-Critic
+- [x] Actor-Critic
 - [ ] PPO
 
 ### 3. Robot Learning
